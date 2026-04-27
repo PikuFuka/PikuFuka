@@ -18,23 +18,20 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <!-- Customize these badges with the languages and tools you use -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PikuFuka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PikuFuka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PikuFuka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 🎯 Current Goals
+- 🚀 Building foundational skills and expanding my tech stack.
+- 🧠 Solving coding challenges to improve my problem-solving abilities.
+- 💻 Working on personal projects to showcase in my portfolio soon.
+
+### 📁 My Projects
+> *Projects are currently in the works! Check back soon to see what I've been building.*
 
 ### 📫 Let's Connect
 <p align="center">
@@ -51,6 +48,5 @@
 
 ---
 <p align="center">
-  <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PikuFuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
