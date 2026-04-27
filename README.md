@@ -1,13 +1,3 @@
-Optimizing tool selection...Here is an advanced and beautiful GitHub Profile README template tailored with your details. 
-
-To use this:
-1. Create a new repository on GitHub with the **exact same name as your GitHub username** (e.g., if your username is `rolansotomayor`, name the repository `rolansotomayor`).
-2. Make sure the repository is **Public** and check the box to **Initialize this repository with a README**.
-3. Edit the `README.md` file in that repository and paste the code below.
-
-**Important:** Make sure to replace all instances of `<YOUR_GITHUB_USERNAME>` with your actual GitHub username so the stats trackers work correctly, and update the "Tech Stack" with your actual programming languages.
-
-```markdown
 <h1 align="center">Hi 👋, I'm Rolan Sotomayor</h1>
 <h3 align="center">A passionate developer, lifelong learner, and creator.</h3>
 
@@ -64,4 +54,3 @@ To use this:
   <!-- Profile view counter -->
   <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-```
